@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RJBluetooth_Mediator_Example' do
+  pod 'RJBluetooth_Mediator', :path => '../'
+
+  target 'RJBluetooth_Mediator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
