@@ -1,0 +1,6 @@
+framework module Pods_RJBluetooth_Mediator_Example {
+  umbrella header "Pods-RJBluetooth_Mediator_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
